@@ -12,12 +12,12 @@ RollNo. - 20171179
 
 - Authorziation:Basic Access Authentication is used to encode the user-name and password that is matched with the encoded version of user name and password in proxy-server.
 
-If any user outside the network access he/she is rejected
+- If any user outside the network access he/she is rejected
 
 
 
 - To run:
- - python proxy_server1.py 
- - python client_endsystem.py <CLIENT_PORT> <PROXY_PORT> <SERVER_PORT>
- - python server.py <SERVER PORT> 
- - server.py is present in the server folder
+ -- python proxy_server1.py 
+ -- python client_endsystem.py <CLIENT_PORT> <PROXY_PORT> <SERVER_PORT>
+ -- python server.py <SERVER PORT> 
+ -- server.py is present in the server folder
