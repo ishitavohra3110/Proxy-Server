@@ -1,8 +1,5 @@
 ## Computer Networks Assignment-2 
 ### Proxy-Server
-#### RollNo. 
-* 20171179
-* 20171054
 
 
 - Threaded Proxy Server: Multiple clients are handled by the server. For each client a new Thread is created
