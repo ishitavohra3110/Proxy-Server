@@ -16,7 +16,7 @@ If any user outside the network access he/she is rejected
 
 
 
--To run:
+- To run:
  - python proxy_server1.py 
  - python client_endsystem.py <CLIENT_PORT> <PROXY_PORT> <SERVER_PORT>
  - python server.py <SERVER PORT> 
